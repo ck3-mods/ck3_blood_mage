@@ -1,5 +1,10 @@
 # Changelog - Highlights
 
+## 1.19 compatibility
+* Migrated religion definitions to the CK3 1.19 folder structure.
+* Updated duel, decision AI, trait, and character-template definitions for the 1.19 parser.
+* Replaced duplicate and inline localization keys with mod-scoped localization.
+
 ## 15.37
 * Changed decisions targetting player, into character interactions instead: Blood Rune / Education / Crimson Empowerment / Attune Lifeforce / Channel lifeforce 
 * Lots of testing, to make sure AI uses the interactions, some they weren't doing before

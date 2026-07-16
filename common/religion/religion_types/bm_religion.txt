@@ -221,8 +221,8 @@
         WitchGodMistressMaster = mistress
         WitchGodMotherFather = mother
 
-        GHWName = ghw_great_holy_war
-        GHWNamePlural = ghw_great_holy_wars
+        GHWName = bm_ghw_great_holy_war
+        GHWNamePlural = bm_ghw_great_holy_wars
     }
 
     faiths = {

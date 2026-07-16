@@ -4,11 +4,7 @@
     icon = blood_mage.dds
     desc = trait_blood_mage_desc
     ruler_designer_cost = 100
-    group = lifestyle_blood_mage_group
-
-    # genetic
-    genetic = yes
-    good = yes
+    # Manually inherited rather than congenital/genetic.
     inherit_chance = 25
     both_parent_has_trait_inherit_chance = 100
     birth = 0.25

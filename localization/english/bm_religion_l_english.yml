@@ -146,5 +146,5 @@
   quintessence_religious_text_3: "Corpus Fluens"
 
   # Great Holy Wars
-  ghw_great_holy_war: "The Blood Crusade"
-  ghw_great_holy_wars: "The Blood Crusades"
+  bm_ghw_great_holy_war: "The Blood Crusade"
+  bm_ghw_great_holy_wars: "The Blood Crusades"

@@ -188,6 +188,7 @@ seek_power.003 = {
         ai_chance = { base = 50 }
         duel = {
             skills = { diplomacy learning }
+            target = scope:recipient
             20 = {
                 desc = seek_power.duel.join
                 compare_modifier = {

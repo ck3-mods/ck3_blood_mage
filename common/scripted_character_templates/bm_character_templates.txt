@@ -67,7 +67,7 @@ traveller_character_template = {
 		pilgrim = { weight = { base = 30 } }
 		berserker = { weight = { base = 30 } }
 		varangian = { weight = { base = 30 } }
-		poet = { weight = { base = 30 } }
+		lifestyle_poet = { weight = { base = 30 } }
 		cannibal = { weight = { base = 30 } }
 		viking = { weight = { base = 30 } }
 		witch = { weight = { base = 30 } }
