@@ -1,5 +1,9 @@
 # Blood Mages
 
+## Local fork
+
+This repository is an independent CK3 1.19 compatibility fork of [Blood Mages by Nicelander](https://steamcommunity.com/sharedfiles/filedetails/?id=3470491478). Relative to the original mod, it rebases religion, duel, decision-AI, trait, and character-template definitions for CK3 1.19; scopes duplicate localization keys; and adds portrait effects that evolve with Blood Mage mastery. The detailed gameplay history and local compatibility summary are in `CHANGELOG.md`.
+
 This mod is for you if:
 
 - You love playing a single character
