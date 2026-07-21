@@ -7,6 +7,6 @@ tags={
 	"Events"
 	"Schemes"
 }
-name="Blood Mages [Nicelander]"
+name="Blood Mages — 1.19 & Evolving Portraits (Fork)"
 supported_version="1.19.*"
-remote_file_id="3470491478"
+remote_file_id="3765727801"

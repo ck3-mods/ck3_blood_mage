@@ -1,3 +1,12 @@
+[h1]Fork Information[/h1]
+This is an independent CK3 1.19 compatibility fork of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3470491478]Blood Mages by Nicelander[/url], with evolving Blood Mage portrait effects.
+
+[list]
+    [*] Original mod and concept: Nicelander
+    [*] Fork source: https://github.com/CamilleHbp/ck3_blood_mage
+    [*] Distributed under the Apache License 2.0 included with the mod
+[/list]
+
 [h1]Overview[/h1]
 Blood Mages drain [b]Lifeforce[/b] from others to extend their own lifespan and cast powerful spells. This power can be used to heal, enhance abilities, absorb traits, and more, at the cost of their own health.
 
